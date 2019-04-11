@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Просто о финансах",
-    "currentPage": "index.html",
+    "currentPage": "prostofinance.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -44,10 +44,10 @@
     "versionPublish": "4.9.1"
   },
   "pages": {
-    "index.html": {
+    "prostofinance.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "prostofinance",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
